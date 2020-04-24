@@ -42,7 +42,7 @@ dependencies {
     compile 'org.hyperledger:indy:1.7.0'
     compile 'com.google.code.gson:gson:2.8.5'
     compile 'net.java.dev.jna:jna:5.2.0'
-    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
 }
